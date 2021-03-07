@@ -1993,11 +1993,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.vikingswap.finance",
+                href: "https://exchange.shadowdefi.finance",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.vikingswap.finance/#/pool",
+                href: "https://exchange.shadowdefi.finance/#/pool",
             },
         ],
     },
@@ -2034,7 +2034,7 @@ var links = [
         items: [
             {
                 label: "Github",
-                href: "https://github.com/VikingDefi/",
+                href: "https://github.com/ShadowSwap/",
             },
             {
                 label: "Docs",
@@ -2054,18 +2054,18 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "http://t.me/VikingSwap",
+                href: "http://t.me/ShadowSwapDefi",
             },
             {
                 label: "Announcements",
-                href: "https://t.me/vikingswapannouncements",
+                href: "https://t.me/ShadowSwapDefi",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/vikingswap",
+        href: "https://twitter.com/shadowdefi",
     },
 ];
 var MENU_HEIGHT = 64;
